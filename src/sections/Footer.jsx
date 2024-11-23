@@ -8,18 +8,29 @@ const Footer = () => {
       </div>
 
       <div className="flex gap-3">
-        <div className="social-icon">
-          <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+      <div className="social-icon">
+        <a href="https://www.linkedin.com/in/pratikturakhia007/" className="w-1/2 h-1/2">
+          <img src="/assets/linkedin.svg" alt="linkedin" className="rounded-md"/>
+        </a>
         </div>
         <div className="social-icon">
-          <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+        <a href="https://github.com/pratikpt" className="w-1/2 h-1/2">
+          <img src="/assets/github.svg" alt="github" />
+        </a>
         </div>
         <div className="social-icon">
-          <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
+        <a href="https://x.com/pratik_turakhia" className="w-1/2 h-1/2">
+          <img src="/assets/twitter.svg" alt="twitter" />
+        </a>
+        </div>
+        <div className="social-icon">
+        <a href="https://www.instagram.com/pratik_turakhia/" className="w-1/2 h-1/2">
+          <img src="/assets/instagram.svg" alt="instagram" />
+        </a>
         </div>
       </div>
 
-      <p className="text-white-500">© 2024 Adrian Hajdin. All rights reserved.</p>
+      <p className="text-white-500">© 2024 Pratik Turakhia. All rights reserved.</p>
     </footer>
   );
 };
