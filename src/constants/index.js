@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'An application designed to empower restaurant partners by providing tools for self-management and optimization.',
     subdesc:
       'Key features include Self-Serve Ads and Discounts, Authentication module, app optimizations, and internal dashboards for restaurant management.',
-    href: '',
+    href: 'https://partner.swiggy.com/login',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/swiggy.svg',
     logoStyle: {
@@ -94,8 +94,8 @@ export const myProjects = [
     desc: 'A user-facing application that enhances the dining experience with advanced features and seamless design.',
     subdesc:
       'Contributions include building the Design Language System (DLS), Occasions web pages, and implementing Restaurant-led Gratifications.',
-    href: '',
-    texture: '/textures/project/project2.mp4',
+    href: 'https://www.swiggy.com/',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/swiggy.svg',
     logoStyle: {
       backgroundColor: '#27AE60',
@@ -132,7 +132,7 @@ export const myProjects = [
     subdesc:
       'Contributed to scaling Freshservice and Freshmarketer with a focus on UI performance and IT Asset Management (ITAM) enhancements.',
     href: 'https://www.freshworks.com/freshservice/itam/',
-    texture: '/textures/project/project5.mp4',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/freshworks.png',
     logoStyle: {
       backgroundColor: '#27AE60',
@@ -158,7 +158,7 @@ export const myProjects = [
     desc: 'Modern ITAM for efficient service operations',
     subdesc: 'Implemented TypeScript support for Ember to improve codebase robustness and maintainability.',
     href: 'https://www.freshworks.com/crm/marketing/',
-    texture: '/textures/project/project2.mp4',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/freshworks.png',
     logoStyle: {
       backgroundColor: '#9B59B6',
@@ -184,7 +184,7 @@ export const myProjects = [
     desc: 'Track and manage hardware and software assets seamlessly with HappyFox Asset Manager.',
     subdesc: 'This application simplifies asset management for businesses of all sizes.',
     href: 'https://apps.apple.com/us/app/happyfox-asset-manager/id1439911160',
-    texture: '/textures/project/project3.mp4',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/happyfox.svg',
     logoStyle: {
       backgroundColor: '#34495E',
@@ -220,7 +220,7 @@ export const myProjects = [
     desc: 'A mobile app that enables live chat and chatbot support for businesses on the go.',
     subdesc: 'Designed for real-time customer engagement, ensuring seamless communication anytime, anywhere.',
     href: 'https://apps.apple.com/us/app/happyfox-chat-2-0/id1488919909',
-    texture: '/textures/project/project4.mp4',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/happyfox.svg',
     logoStyle: {
       backgroundColor: '#F21C3C',
@@ -251,7 +251,7 @@ export const myProjects = [
     desc: 'A cloud-based customer support platform with an enterprise-grade help desk ticketing system.',
     subdesc: 'Offers a comprehensive solution for managing support tickets and knowledge bases.',
     href: 'https://apps.apple.com/us/app/happyfox-help-desk-2-0/id1511874864',
-    texture: '/textures/project/project5.mp4',
+    texture: '/textures/project/project1.mp4',
     logo: '/assets/happyfox.svg',
     logoStyle: {
       backgroundColor: '#9B59B6',
